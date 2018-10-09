@@ -1,0 +1,1 @@
+"# CalculatingIntegralSigmaA-X-N" 
